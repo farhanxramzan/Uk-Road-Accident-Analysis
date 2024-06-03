@@ -18,3 +18,5 @@ The UK Road Accident Analysis project is a comprehensive study aimed at understa
 
 ### Conclusion
 The UK Road Accident Analysis project leveraged Excel's powerful data handling and visualization capabilities to deliver a comprehensive and insightful analysis of road accidents in the UK. Through meticulous data exploration, cleaning, and visualization, the project not only highlighted key metrics and trends but also provided an interactive platform for ongoing analysis and learning. The integration of Wikipedia links further enriched the dashboard, making it a valuable resource for stakeholders seeking to understand and mitigate road accidents.
+
+![Uk Road Accident](https://github.com/farhanxramzan/Uk-Road-Accident-Analysis/assets/170033603/d777d2c8-63fe-4063-9a60-feab7181414f)
